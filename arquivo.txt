@@ -1,1 +1,6 @@
 Arquivo de exemplo criado
+Adicionando linhas no arquivo de exemplo
+Linha 1
+Linha 2
+Linha 3
+Linha 4
